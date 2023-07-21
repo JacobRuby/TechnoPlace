@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         r/place Hytale Overlay
+// @name         r/place Hypixel Overlay
 // @namespace    http://tampermonkey.net/
 // @version      1.4
 // @description  r/place overlay with an autoplacer.
@@ -7,7 +7,7 @@
 // @credits      oralekin, exdeejay (xDJ_), 101arrowz
 // @license      MIT
 // @match        https://garlic-bread.reddit.com/embed*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=hytale.com
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=hypixel.com
 // @require      https://cdn.jsdelivr.net/npm/toastify-js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getResourceText

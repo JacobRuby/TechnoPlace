@@ -1,4 +1,4 @@
-# HytalePlace
+# HypixelPlace
 Userscript that previews an overlay over the r/Place canvas. Comes with an optional autoplace feature.
 
 
@@ -10,7 +10,7 @@ Userscript that previews an overlay over the r/Place canvas. Comes with an optio
 
 ## Installation
 - Install the extension for your browser.
-- [Install the userscript](https://github.com/Antonio32A/HytalePlace/raw/main/userscript.user.js)
+- [Install the userscript](https://github.com/Antonio32A/HypixelPlace/raw/main/userscript.user.js)
 ![install](.github/images/install.png)
 
 ## Usage
@@ -20,7 +20,7 @@ Userscript that previews an overlay over the r/Place canvas. Comes with an optio
 ## Autoplace
 Autoplace will place pixels for you. To activate it press P on your keyboard.
 
-Pressing O will switch autoplace priority. Current defaults to Hytale.
+Pressing O will switch autoplace priority. Current defaults to Hypixel.
 
 **WARNING**: Autoplace is use at your own risk. It attempts to mimic human behavior but I do not guarantee that you will not get rate-limited. 
 (As far as I know reddit will not fully ban your account and will just force you to wait a long long time before placing)
@@ -37,8 +37,8 @@ Pressing O will switch autoplace priority. Current defaults to Hytale.
 
 
 
-# HytalePlace (Turkish Translation)
-r/Place üzerinde Hytale logosunun yerini göstermek için bir kullanıcı betiği. Opsiyonel bir otomatik piksel yerleştirme eklentisiyle birlikte.
+# HypixelPlace (Turkish Translation)
+r/Place üzerinde Hypixel logosunun yerini göstermek için bir kullanıcı betiği. Opsiyonel bir otomatik piksel yerleştirme eklentisiyle birlikte.
 
 
 **r/osuplace ve r/httyd'ye betiğin v0 versiyonunda yardım ettiği için teşekkürler.**
@@ -49,7 +49,7 @@ r/Place üzerinde Hytale logosunun yerini göstermek için bir kullanıcı beti�
 
 ## Kurulum
 - Kullandığınız tarayıcıya göre gerekli eklentiyi kurun.
-- [Kullanıcı Betiğini Bu Yazıya Tıklayarak Açılan Pencerede Kurun](https://github.com/Antonio32A/HytalePlace/raw/main/userscript.user.js)
+- [Kullanıcı Betiğini Bu Yazıya Tıklayarak Açılan Pencerede Kurun](https://github.com/Antonio32A/HypixelPlace/raw/main/userscript.user.js)
 ![Kurulum İçin Resimli Anlatı](.github/images/install.png)
 
 ## Kullanım
