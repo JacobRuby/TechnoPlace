@@ -18,7 +18,7 @@
 // @connect      rplace.antonio32a.com
 // ==/UserScript==
 
-const METADATA_URL = "https://rplace.antonio32a.com/metadata.json";
+const METADATA_URL = "https://rplace.antonio32a.com/hypixel-metadata.json";
 
 let metadata;
 let overlayElement;
