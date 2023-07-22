@@ -2,9 +2,9 @@
     "overlays": [
         {
             "name": "Hypixel",
-            "image": "https://rplace.antonio32a.com/hypixel-birthday.png",
-            "x": 1215,
-            "y": 142
+            "image": "https://rplace.antonio32a.com/hypixel-outline.png",
+            "x": 210,
+            "y": 855
         }
     ]
 }
