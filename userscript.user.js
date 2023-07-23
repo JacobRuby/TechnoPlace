@@ -18,7 +18,7 @@
 // @connect      pastebin.com
 // ==/UserScript==
 
-const METADATA_URL = "https://pastebin.com/raw/7kYyg237";
+const METADATA_URL = "https://pastebin.com/raw/EaPA7gu3";
 
 let metadata;
 let overlayElement;
