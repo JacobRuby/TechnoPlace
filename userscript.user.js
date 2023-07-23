@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         r/place Hypixel Overlay
+// @name         r/place Techno Overlay
 // @namespace    http://tampermonkey.net/
 // @version      1.8
 // @description  r/place overlay with an autoplacer.
-// @author       Antonio32A
+// @author       Antonio32A, JacobRuby
 // @credits      oralekin, exdeejay (xDJ_), 101arrowz
 // @license      MIT
 // @match        https://garlic-bread.reddit.com/embed*
@@ -15,10 +15,10 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @resource     TOASTIFY_STYLE https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css
-// @connect      rplace.antonio32a.com
+// @connect      pastebin.com
 // ==/UserScript==
 
-const METADATA_URL = "https://rplace.antonio32a.com/hypixel-metadata.json";
+const METADATA_URL = "https://pastebin.com/raw/YV2y6p24";
 
 let metadata;
 let overlayElement;
