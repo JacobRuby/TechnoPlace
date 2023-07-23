@@ -10,7 +10,7 @@ Userscript that previews an overlay over the r/Place canvas. Comes with an optio
 
 ## Installation
 - Install the extension for your browser.
-- [Install the userscript](https://github.com/Antonio32A/HypixelPlace/raw/main/userscript.user.js)
+- [Install the userscript](https://github.com/JacobRuby/TechnoPlace/raw/main/userscript.user.js)
 ![install](.github/images/install.png)
 
 ## Usage
