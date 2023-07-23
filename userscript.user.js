@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         r/place Techno Overlay
+// @name         r/place Hypixel Overlay
 // @namespace    http://tampermonkey.net/
 // @version      1.8
 // @description  r/place overlay with an autoplacer.
@@ -18,7 +18,7 @@
 // @connect      pastebin.com
 // ==/UserScript==
 
-const METADATA_URL = "https://pastebin.com/raw/YV2y6p24";
+const METADATA_URL = "https://pastebin.com/raw/7kYyg237";
 
 let metadata;
 let overlayElement;
